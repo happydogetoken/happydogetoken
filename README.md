@@ -1,11 +1,5 @@
 <!---
-- 👋 Hi, I’m @happydogetoken
-- Token Allocation
-Initial Burn: 45.5%
-‍Liquidity: 45% LP Locked for 6 Months
-‍Developer Team: .16% Happily Locked
-‍Dev Tokens Burned after launch: 4.84%
-‍Marketing & Promotions: 5.5%
+
 --->
 <!---
 We need to find happy people to make happy people!
